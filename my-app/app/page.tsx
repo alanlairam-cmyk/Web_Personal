@@ -1,4 +1,4 @@
-export default function HomePage() {
+export default function Home() {
   // ...（前面保持不變的 onlineTools 和 blogPosts 資料陣列）...
 
   // 🎯 新增的 WhatsApp 動態連結變數
